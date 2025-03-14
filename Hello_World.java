@@ -1,4 +1,4 @@
-public class Main1{
+public class Hello_World {
   public static void main(String[] args){
     // kode dibawah contoh program sederhana
     System.out.println("hello world"); // prints hello world
