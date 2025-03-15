@@ -1,4 +1,4 @@
-public class operator1 {
+public class operator {
     public static void main(String[] args) {
         //operator
         //arithmatic operator
