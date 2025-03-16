@@ -6,7 +6,5 @@ public class JavaTypeCasting {
         System.out.println("Implementasi Type Casting");
         System.out.println("Angka dengan tipe data integer : " + numberInteger);
         System.out.println("Angka bertipe integer dirubah menjadi tipe data double : " + numberDouble + "\n");
-
-
     }
 }
