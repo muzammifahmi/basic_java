@@ -67,4 +67,3 @@ text.trim(); // "Hello World"
 String data = "apple,orange,mango";
 String[] fruits = data.split(",");
 ```
-```
