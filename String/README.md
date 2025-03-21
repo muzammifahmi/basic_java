@@ -68,7 +68,3 @@ String data = "apple,orange,mango";
 String[] fruits = data.split(",");
 ```
 ```
-
----
-
-If you'd like, I can help turn this into a complete GitHub README.md file with sections, headings, or even a table. Just let me know! 😊
