@@ -1,3 +1,4 @@
+package Operator;
 public class AssignmentOperator {
     public static void main(String[] args) { 
          //Java Assignment Operator

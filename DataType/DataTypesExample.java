@@ -1,3 +1,4 @@
+package DataType;
 public class DataTypesExample {
     public static void main(String[] args) {
         int items = 100;
