@@ -1,3 +1,4 @@
+package HelloWorld;
 public class NarrowingCasting {
    public static void main(String[] args){
     //implementasi narrowing casting

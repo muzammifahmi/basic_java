@@ -1,0 +1,188 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BooleanExpression",
+            "request": "launch",
+            "mainClass": "Booleans.BooleanExpression",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "BooleanValues",
+            "request": "launch",
+            "mainClass": "Booleans.BooleanValues",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "Conditions.IfElse",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "DataTypesExample",
+            "request": "launch",
+            "mainClass": "DataType.DataTypesExample",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "JavaTypeCasting",
+            "request": "launch",
+            "mainClass": "DataType.JavaTypeCasting",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "PersonalData",
+            "request": "launch",
+            "mainClass": "Exercise.PersonalData",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "Hello_World",
+            "request": "launch",
+            "mainClass": "HelloWorld.Hello_World",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "NarrowingCasting",
+            "request": "launch",
+            "mainClass": "HelloWorld.NarrowingCasting",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "StringConcatenation",
+            "request": "launch",
+            "mainClass": "HelloWorld.StringConcatenation",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "HelloWorld.variable",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "Absolute",
+            "request": "launch",
+            "mainClass": "Math.Absolute",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Math.Max",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "Min",
+            "request": "launch",
+            "mainClass": "Math.Min",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumber",
+            "request": "launch",
+            "mainClass": "Math.RandomNumber",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "SquareRoot",
+            "request": "launch",
+            "mainClass": "Math.SquareRoot",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOperator",
+            "request": "launch",
+            "mainClass": "Operator.AssignmentOperator",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "ComparisonOperator",
+            "request": "launch",
+            "mainClass": "Operator.ComparisonOperator",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperator",
+            "request": "launch",
+            "mainClass": "Operator.LogicalOperator",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "Operator.operator",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "AddingStringandString",
+            "request": "launch",
+            "mainClass": "String.AddingStringandString",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "FindingCharacter",
+            "request": "launch",
+            "mainClass": "String.FindingCharacter",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "SpecialCharacter",
+            "request": "launch",
+            "mainClass": "String.SpecialCharacter",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "String.StringLength",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "String.string",
+            "projectName": "java_53fa38d3"
+        }
+    ]
+}
