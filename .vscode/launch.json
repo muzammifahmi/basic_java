@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "shortHand",
+            "request": "launch",
+            "mainClass": "Conditions.shortHand",
+            "projectName": "java_53fa38d3"
+        },
+        {
+            "type": "java",
             "name": "temperature",
             "request": "launch",
             "mainClass": "Exercise.temperature",

@@ -13,9 +13,11 @@ public class IfElse {
         number2 = scanner.nextInt();
         if (number1 > number2) {
             System.out.println("Number 1 is greater than number 2");
-        } else {
+        } else if(number1 < number2) {
             System.out.println("Number 1 is less than number 2");
-            scanner.close();
+        } else {
+            System.out.println("Number 1 and number 2 are equal");
         }
+        scanner.close();
     }
 }
